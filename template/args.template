@@ -1,0 +1,1 @@
+-rounds {{rounds}} -iters {{iters}} -range {{range}} -octaves {{octaves}} -rate {{rate}} -thres {{thres}} -zoom {{zoom}} -rotate {{rotate}} 
