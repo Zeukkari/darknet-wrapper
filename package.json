@@ -1,17 +1,13 @@
 {
   "name": "darknet-wrapper",
   "version": "1.0.0",
-  "description": "Node.js wrapper for Darknet",
+  "description": "An accessibility script to run image sets through Darknet nightmare",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Timo Aho",
+  "license": "MIT",
   "dependencies": {
     "imageinfo": "^1.0.4",
     "mustache": "^2.3.0",
-    "pug": "^2.0.0-rc.1",
-    "sharp": "^0.17.3"
+    "pug": "^2.0.0-rc.1"
   }
 }
